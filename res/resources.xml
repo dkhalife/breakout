@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- IMAGES -->
+    <resource id="BRICK_BLUE" type="image">brick-blue.png</resource>
+    <resource id="BRICK_CYAN" type="image">brick-cyan.png</resource>
+    <resource id="BRICK_GREEN" type="image">brick-green.png</resource>
+    <resource id="BRICK_MAGENTA" type="image">brick-magenta.png</resource>
+    <resource id="BRICK_RED" type="image">brick-red.png</resource>
+    <resource id="BRICK_YELLOW" type="image">brick-yellow.png</resource>
+    
+    
+    
+    <!--  TODO: FIX THOSE RESOURCES -->
+    <resource id="PADDLE_SMALL" type="image">paddle-small.png</resource>
+    <resource id="PADDLE_NORMAL" type="image">paddle-normal.png</resource>
+    <resource id="PADDLE_LARGE" type="image">paddle-large.png</resource>
+    
+    <resource id="BALL" type="image">ball.png</resource>
+    
+
+</resources>
